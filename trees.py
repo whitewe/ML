@@ -1,4 +1,5 @@
 from math import log
+import operator
 
 def calcShannonEnt(dataSet):
     numEntries = len(dataSet)
@@ -23,12 +24,49 @@ def createDataSet():
     return dataSet,labels
 
 
+def splitDataSet(dataSet,axis,value):
+    retDataSet=[]
+    for featVec in dataSet:
+        if featVec[axis]==value:
+            reducedFeatVec = featVec[:axis]
+            reducedFeatVec.extend(featVec[axis+1:])
+            retDataSet.append(reducedFeatVec)
+    return retDataSet
+
+def chooseBestFeatureToSplit(dataSet):
+    numFeatures = len(dataSet[0])-1
+    baseEntropy = calcShannonEnt(dataSet)
+    bestInfoGain = 0.0
+    bestFeature = -1
+    for i in range(numFeatures):
+        featList = [example[i] for example in dataSet]
+        uniqueValues = set(featList)
+        newEntropy = 0.0
+        for value in uniqueValues:
+            subDataSet = splitDataSet(dataSet,i,value)
+            prob = len(subDataSet)/len(dataSet)
+            newEntropy += prob*calcShannonEnt(subDataSet)
+        infoGain = baseEntropy-newEntropy
+        if infoGain>bestInfoGain :
+            bestInfoGain=infoGain
+            bestFeature = i
+    return bestFeature
+
+
+def majorityCnt(classList):
+    classCnt = {}
+    for vote in classList:
+        classCnt[vote] = classCnt.get(vote,0)+1
+    sortedClassCount = sorted(classCnt.items(),key=operator.itemgetter(1),reverse=True)
+    return sortedClassCount[0][0]
+
 def main():
     dataSet,labels = createDataSet()
-    dataSet[0][-1] = 'maybe'
-
-    print(calcShannonEnt(dataSet))
-
+    print(chooseBestFeatureToSplit(dataSet))
+    #dataSet[0][-1] = 'maybe'
+    # print(calcShannonEnt(dataSet))
+    # print(splitDataSet(dataSet,0,1))
+    # print(splitDataSet(dataSet,0,0))
 
 if __name__=='__main__':
     main()
