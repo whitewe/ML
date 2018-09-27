@@ -1,5 +1,6 @@
 from math import log
 import operator
+import treePlotter
 
 def calcShannonEnt(dataSet):
     numEntries = len(dataSet)
@@ -60,13 +61,80 @@ def majorityCnt(classList):
     sortedClassCount = sorted(classCnt.items(),key=operator.itemgetter(1),reverse=True)
     return sortedClassCount[0][0]
 
+def createTree(dataSet,labels):
+    newLabels = labels[:]
+    classList = [example[-1] for example in dataSet]
+    if classList.count(classList[0])==len(classList):
+        return classList[0]
+    if len(dataSet[0])==1:
+        return majorityCnt(classList)
+    bestFeat = chooseBestFeatureToSplit(dataSet)
+    bestFeatLabel = labels[bestFeat]
+    myTree = {bestFeatLabel:{}}
+    del(newLabels[bestFeat])
+    featValues = [example[bestFeat] for example in dataSet]
+    uniqueVals = set(featValues)
+    for value in uniqueVals:
+        subLabels = newLabels[:]
+        myTree[bestFeatLabel][value] = createTree(splitDataSet(dataSet,bestFeat,value),subLabels)
+    return myTree
+
+
+def classify(inputTree,featLabels,testVec):
+    firstStr = list(inputTree.keys())[0]
+    secondDict = inputTree[firstStr]
+    featIndex = featLabels.index(firstStr)
+    for key in secondDict.keys():
+        if testVec[featIndex]==key:
+            if type(secondDict[key]).__name__=='dict':
+                classLabel = classify(secondDict[key],featLabels,testVec)
+            else:
+                classLabel = secondDict[key]
+    return classLabel
+
+
+def storeTree(inputTree,filename):
+    import pickle
+    fw = open(filename,'wb')
+    pickle.dump(inputTree,fw)
+    fw.close()
+
+
+def grabTree(filename):
+    import pickle
+    fr = open(filename,'rb')
+    return pickle.load(fr)
+
+
+
+
 def main():
-    dataSet,labels = createDataSet()
-    print(chooseBestFeatureToSplit(dataSet))
+    # dataSet,labels = createDataSet()
+    # print(labels)
+    # newLabels = labels[:]
+    # myTree = createTree(dataSet,newLabels)
+    # print(classify(myTree,labels,[1,0]))
+    # print(classify(myTree,labels,[1,1]))
+    # storeTree(myTree,'classfifierStorage.pickle')
+    # tree = grabTree('classfifierStorage.pickle')
+    # print(tree)
+    #print(chooseBestFeatureToSplit(dataSet))
     #dataSet[0][-1] = 'maybe'
     # print(calcShannonEnt(dataSet))
     # print(splitDataSet(dataSet,0,1))
     # print(splitDataSet(dataSet,0,0))
+    fr = open('Ch03/lenses.txt')
+    lenses = [inst.strip().split('\t') for inst in fr.readlines()]
+    lensesLabels=['age','prescript','astigmatic','tearRate']
+
+    lensesTree = createTree(lenses,lensesLabels)
+    storeTree(lensesTree,'lensesTree.pickle')
+    lensesTree = grabTree('lensesTree.pickle')
+    testVec=['presbyopic','myope','no','reduced']
+    result = classify(lensesTree,lensesLabels,testVec)
+    print(result)
+    treePlotter.createPlot(lensesTree)
+
 
 if __name__=='__main__':
     main()
