@@ -2,11 +2,602 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="311ad469-7dd1-4b3c-9f0c-8dbb33fbc839" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bayes.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logRegres.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/treePlotter.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classfifierStorage.pickle" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lensesTree.pickle" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/ML.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/1_0.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/1_1.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/1_10.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/1_11.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/1_12.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/1_13.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/1_14.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/1_15.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/1_16.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/1_17.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/1_18.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/1_19.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/1_2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/1_20.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/1_21.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/1_22.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/1_23.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/1_24.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/1_25.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/1_26.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/1_27.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/1_28.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/1_29.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/1_3.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/1_30.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/1_31.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/1_32.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/1_33.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/1_34.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/1_35.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/1_36.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/1_37.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/1_38.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/1_39.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/1_4.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/1_40.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/1_41.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/1_42.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/1_43.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/1_44.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/1_45.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/1_46.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/1_47.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/1_48.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/1_49.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/1_5.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/1_50.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/1_51.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/1_52.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/1_53.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/1_54.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/1_55.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/1_56.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/1_57.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/1_58.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/1_59.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/1_6.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/1_60.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/1_61.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/1_62.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/1_63.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/1_64.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/1_65.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/1_66.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/1_67.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/1_68.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/1_69.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/1_7.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/1_70.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/1_71.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/1_72.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/1_73.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/1_74.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/1_75.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/1_76.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/1_77.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/1_78.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/1_79.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/1_8.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/1_80.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/1_81.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/1_82.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/1_83.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/1_84.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/1_85.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/1_86.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/1_87.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/1_88.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/1_89.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/1_9.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/1_90.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/1_91.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/1_92.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/1_93.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/1_94.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/1_95.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/1_96.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/9_0.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/9_1.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/9_10.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/9_11.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/9_12.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/9_13.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/9_14.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/9_15.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/9_16.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/9_17.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/9_18.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/9_19.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/9_2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/9_20.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/9_21.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/9_22.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/9_23.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/9_24.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/9_25.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/9_26.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/9_27.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/9_28.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/9_29.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/9_3.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/9_30.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/9_31.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/9_32.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/9_33.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/9_34.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/9_35.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/9_36.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/9_37.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/9_38.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/9_39.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/9_4.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/9_40.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/9_41.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/9_42.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/9_43.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/9_44.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/9_45.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/9_46.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/9_47.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/9_48.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/9_49.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/9_5.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/9_50.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/9_51.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/9_52.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/9_53.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/9_54.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/9_55.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/9_56.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/9_57.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/9_58.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/9_59.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/9_6.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/9_60.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/9_61.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/9_62.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/9_63.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/9_64.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/9_65.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/9_66.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/9_67.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/9_68.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/9_69.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/9_7.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/9_70.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/9_71.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/9_72.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/9_73.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/9_74.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/9_75.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/9_76.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/9_77.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/9_78.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/9_79.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/9_8.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/9_80.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/9_81.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/9_82.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/9_83.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/9_84.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/9_85.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/9_86.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/9_87.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/9_88.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/testDigits/9_9.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_0.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_1.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_10.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_100.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_101.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_102.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_103.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_104.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_105.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_106.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_107.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_108.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_109.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_11.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_110.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_111.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_112.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_113.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_114.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_115.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_116.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_117.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_118.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_119.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_12.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_120.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_121.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_122.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_123.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_124.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_125.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_126.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_127.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_128.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_129.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_13.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_130.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_131.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_132.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_133.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_134.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_135.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_136.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_137.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_138.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_139.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_14.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_140.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_141.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_142.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_143.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_144.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_145.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_146.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_147.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_148.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_149.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_15.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_150.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_151.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_152.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_153.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_154.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_155.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_156.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_157.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_158.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_159.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_16.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_160.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_161.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_162.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_163.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_164.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_165.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_166.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_167.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_168.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_169.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_17.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_170.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_171.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_172.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_173.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_174.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_175.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_176.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_177.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_178.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_179.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_18.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_180.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_181.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_182.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_183.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_184.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_185.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_186.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_187.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_188.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_189.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_19.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_190.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_191.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_192.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_193.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_194.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_195.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_196.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_197.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_20.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_21.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_22.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_23.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_24.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_25.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_26.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_27.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_28.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_29.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_3.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_30.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_31.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_32.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_33.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_34.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_35.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_36.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_37.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_38.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_39.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_4.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_40.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_41.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_42.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_43.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_44.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_45.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_46.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_47.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_48.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_49.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_5.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_50.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_51.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_52.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_53.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_54.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_55.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_56.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_57.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_58.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_59.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_6.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_60.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_61.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_62.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_63.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_64.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_65.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_66.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_67.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_68.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_69.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_7.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_70.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_71.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_72.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_73.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_74.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_75.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_76.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_77.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_78.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_79.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_8.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_80.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_81.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_82.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_83.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_84.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_85.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_86.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_87.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_88.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_89.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_9.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_90.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_91.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_92.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_93.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_94.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_95.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_96.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_97.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_98.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/1_99.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_0.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_1.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_10.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_100.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_101.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_102.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_103.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_104.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_105.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_106.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_107.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_108.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_109.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_11.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_110.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_111.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_112.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_113.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_114.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_115.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_116.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_117.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_118.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_119.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_12.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_120.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_121.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_122.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_123.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_124.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_125.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_126.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_127.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_128.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_129.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_13.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_130.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_131.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_132.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_133.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_134.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_135.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_136.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_137.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_138.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_139.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_14.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_140.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_141.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_142.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_143.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_144.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_145.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_146.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_147.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_148.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_149.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_15.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_150.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_151.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_152.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_153.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_154.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_155.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_156.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_157.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_158.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_159.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_16.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_160.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_161.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_162.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_163.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_164.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_165.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_166.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_167.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_168.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_169.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_17.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_170.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_171.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_172.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_173.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_174.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_175.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_176.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_177.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_178.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_179.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_18.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_180.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_181.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_182.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_183.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_184.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_185.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_186.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_187.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_188.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_189.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_19.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_190.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_191.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_192.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_193.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_194.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_195.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_196.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_197.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_198.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_199.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_20.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_200.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_201.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_202.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_203.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_21.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_22.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_23.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_24.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_25.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_26.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_27.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_28.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_29.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_3.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_30.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_31.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_32.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_33.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_34.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_35.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_36.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_37.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_38.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_39.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_4.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_40.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_41.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_42.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_43.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_44.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_45.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_46.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_47.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_48.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_49.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_5.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_50.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_51.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_52.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_53.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_54.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_55.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_56.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_57.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_58.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_59.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_6.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_60.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_61.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_62.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_63.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_64.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_65.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_66.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_67.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_68.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_69.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_7.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_70.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_71.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_72.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_73.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_74.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_75.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_76.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_77.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_78.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_79.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_8.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_80.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_81.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_82.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_83.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_84.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_85.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_86.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_87.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_88.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_89.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_9.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_90.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_91.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_92.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_93.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_94.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_95.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_96.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_97.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_98.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch06/trainingDigits/9_99.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svmMLiA.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trees.py" afterPath="$PROJECT_DIR$/trees.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -21,62 +612,10 @@
     <SUITE FILE_PATH="coverage/ML$logRegres.coverage" NAME="logRegres Coverage Results" MODIFIED="1537240463593" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ML$trees.coverage" NAME="trees Coverage Results" MODIFIED="1536569934179" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ML$bayes.coverage" NAME="bayes Coverage Results" MODIFIED="1536804906272" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ML$svmMLiA.coverage" NAME="svmMLiA Coverage Results" MODIFIED="1538034053268" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="logRegres.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/logRegres.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="431">
-              <caret line="125" column="0" lean-forward="false" selection-start-line="125" selection-start-column="0" selection-end-line="125" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#18#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="horseColicTraining.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Ch05/horseColicTraining.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="multiarray.py" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/.PyCharm2017.2/system/python_stubs/-2036615904/numpy/core/multiarray.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3379">
-              <caret line="109" column="27" lean-forward="false" selection-start-line="109" selection-start-column="27" selection-end-line="109" selection-end-column="27" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="function_base.py" pinned="false" current-in-tab="false">
-        <entry file="file://D:/Anaconda3/Lib/site-packages/numpy/core/function_base.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="620">
-              <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="function_base.py" pinned="false" current-in-tab="false">
-        <entry file="file://D:/Anaconda3/Lib/site-packages/numpy/lib/function_base.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="146227">
-              <caret line="4749" column="12" lean-forward="false" selection-start-line="4749" selection-start-column="12" selection-end-line="4750" selection-end-column="29" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -97,6 +636,7 @@
         <option value="$PROJECT_DIR$/byes.py" />
         <option value="$PROJECT_DIR$/bayes.py" />
         <option value="$PROJECT_DIR$/logRegres.py" />
+        <option value="$PROJECT_DIR$/svmMLiA.py" />
       </list>
     </option>
   </component>
@@ -106,11 +646,52 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1386" />
     <option name="height" value="788" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>CSS</id>
+          </State>
+          <State>
+            <id>ECMAScript 6 migration aidsJavaScript</id>
+          </State>
+          <State>
+            <id>GeneralJavaScript</id>
+          </State>
+          <State>
+            <id>Invalid elementsCSS</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>Less</id>
+          </State>
+          <State>
+            <id>Puppet</id>
+          </State>
+          <State>
+            <id>Python</id>
+          </State>
+          <State>
+            <id>Sass/SCSS</id>
+          </State>
+          <State>
+            <id>TypeScript</id>
+          </State>
+        </expanded-state>
+      </profile-state>
+    </entry>
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -131,7 +712,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -143,10 +723,11 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.intentionPowerPack" />
     <property name="last_opened_file_path" value="D:/Python/Python27/python.exe" />
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
@@ -162,7 +743,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.logRegres">
+  <component name="RunManager" selected="Python.svmMLiA">
     <configuration name="bayes" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -181,24 +762,6 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="kNN" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="ML" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/kNN.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
     <configuration name="logRegres" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -213,6 +776,24 @@
       <module name="ML" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/logRegres.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="svmMLiA" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ML" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/svmMLiA.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -254,19 +835,19 @@
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.kNN" />
-      <item index="1" class="java.lang.String" itemvalue="Python.trees" />
-      <item index="2" class="java.lang.String" itemvalue="Python.treePlotter" />
-      <item index="3" class="java.lang.String" itemvalue="Python.bayes" />
-      <item index="4" class="java.lang.String" itemvalue="Python.logRegres" />
+      <item index="0" class="java.lang.String" itemvalue="Python.trees" />
+      <item index="1" class="java.lang.String" itemvalue="Python.treePlotter" />
+      <item index="2" class="java.lang.String" itemvalue="Python.bayes" />
+      <item index="3" class="java.lang.String" itemvalue="Python.logRegres" />
+      <item index="4" class="java.lang.String" itemvalue="Python.svmMLiA" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.logRegres" />
-        <item index="1" class="java.lang.String" itemvalue="Python.bayes" />
-        <item index="2" class="java.lang.String" itemvalue="Python.trees" />
-        <item index="3" class="java.lang.String" itemvalue="Python.treePlotter" />
-        <item index="4" class="java.lang.String" itemvalue="Python.kNN" />
+        <item index="0" class="java.lang.String" itemvalue="Python.svmMLiA" />
+        <item index="1" class="java.lang.String" itemvalue="Python.logRegres" />
+        <item index="2" class="java.lang.String" itemvalue="Python.bayes" />
+        <item index="3" class="java.lang.String" itemvalue="Python.trees" />
+        <item index="4" class="java.lang.String" itemvalue="Python.treePlotter" />
       </list>
     </recent_temporary>
   </component>
@@ -291,23 +872,30 @@
       <option name="project" value="LOCAL" />
       <updated>1536546149796</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="LR">
+      <created>1538014415366</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1538014415366</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1176" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1176" extended-state="7" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14658849" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14818764" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36948177" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32917467" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32917467" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36948177" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32917467" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39923224" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39923224" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -321,12 +909,40 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="trees" />
-    <option name="LAST_COMMIT_MESSAGE" value="trees" />
+    <MESSAGE value="LR" />
+    <MESSAGE value="SVM" />
+    <option name="LAST_COMMIT_MESSAGE" value="SVM" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -335,42 +951,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/typing.pyi">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="9083">
-          <caret line="293" column="8" lean-forward="false" selection-start-line="293" selection-start-column="8" selection-end-line="293" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2017.2/system/python_stubs/-2036615904/numpy/core/multiarray.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110763">
-          <caret line="3573" column="8" lean-forward="false" selection-start-line="3573" selection-start-column="8" selection-end-line="3573" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/Anaconda3/Lib/site-packages/numpy/lib/shape_base.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="26009">
-          <caret line="851" column="24" lean-forward="false" selection-start-line="851" selection-start-column="24" selection-end-line="851" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/trees.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="868">
-          <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kNN.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://D:/Anaconda3/pkgs/dask-core-0.16.1-py36_0/Lib/site-packages/dask/array/core.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="48701">
@@ -417,7 +997,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="110763">
           <caret line="3573" column="8" lean-forward="false" selection-start-line="3573" selection-start-column="8" selection-end-line="3573" selection-end-column="8" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -460,7 +1039,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="110763">
           <caret line="3573" column="8" lean-forward="false" selection-start-line="3573" selection-start-column="8" selection-end-line="3573" selection-end-column="8" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -618,13 +1196,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2017.2/system/python_stubs/-2036615904/numpy/core/umath.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="31">
-          <caret line="2879" column="4" lean-forward="false" selection-start-line="2879" selection-start-column="4" selection-end-line="2879" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Ch05/testSet.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="744">
@@ -664,7 +1235,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="620">
           <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -672,7 +1242,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="146227">
           <caret line="4749" column="12" lean-forward="false" selection-start-line="4749" selection-start-column="12" selection-end-line="4750" selection-end-column="29" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -680,7 +1249,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3379">
           <caret line="109" column="27" lean-forward="false" selection-start-line="109" selection-start-column="27" selection-end-line="109" selection-end-column="27" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -688,7 +1256,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2017.2/system/python_stubs/-2036615904/numpy/core/umath.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="31">
+          <caret line="3683" column="4" lean-forward="false" selection-start-line="3683" selection-start-column="4" selection-end-line="3683" selection-end-column="4" />
         </state>
       </provider>
     </entry>
@@ -696,9 +1270,44 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="431">
           <caret line="125" column="0" lean-forward="false" selection-start-line="125" selection-start-column="0" selection-end-line="125" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ch06/svmMLiA.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2434">
+          <caret line="254" column="63" lean-forward="false" selection-start-line="231" selection-start-column="0" selection-end-line="254" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/svmMLiA.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="262" column="40" lean-forward="false" selection-start-line="262" selection-start-column="40" selection-end-line="262" selection-end-column="40" />
           <folding>
-            <element signature="e#0#18#0" expanded="true" />
+            <element signature="e#0#13#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ch06/testSetRBF.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ch06/testSetRBF2.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ch06/testSet.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="6" column="25" lean-forward="true" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
         </state>
       </provider>
     </entry>
